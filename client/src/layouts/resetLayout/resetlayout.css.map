@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AECA,OAAO,CAAC,oFAAI;AAEZ,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;AAED,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,QAAQ;CACxB;;AAED,AAAA,GAAG,CAAA;EACC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,IAAI;CACd;;AAED,AAAA,UAAU,CAAA;EACN,SAAS,EAAE,MAAM;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,MAAM;CAClB;;AFpBD,AAAA,QAAQ,CAAC;EACL,UAAU,EAAE,MAAM;EAClB,KAAK,ECCC,OAAO;EDAb,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,GAAG;EACf,cAAc,EAAE,UAAU;EAC1B,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "resetlayout.scss",
+        "../../components/variables/variables.scss",
+        "../../../public/assets/css/main.scss"
+    ],
+    "names": [],
+    "file": "resetlayout.css"
+}
